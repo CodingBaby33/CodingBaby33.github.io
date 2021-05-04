@@ -1935,8 +1935,11 @@ body {
   color: #6a859c;
   font-size: 16px;
   line-height: 20px;
-}
 
+}
+html, body {
+    cursor: url("../img/profiles/33次落日.webp"), default;
+}
 h1 {
   margin-top: 0px;
   margin-bottom: 10px;
